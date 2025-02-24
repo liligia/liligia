@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liligia
-- 👀 I’m interested in studying languages and programming little games
+- 👀 I’m interested in studying languages and programming fun things
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on any projects that help me learn new things.
 - 📫 How to reach me @liligia
